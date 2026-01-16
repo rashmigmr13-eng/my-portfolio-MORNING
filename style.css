@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f8ff;
+  text-align: center;
+  margin-top: 50px;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #3498db;
+}
+nav a:hover {
+  color: #2c3e50;
+}
